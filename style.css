@@ -1,0 +1,16 @@
+body {
+	background-color: #d9ffb3;
+	font-family: 'Lobster', cursive;
+}
+
+h2 {
+color: blue;	
+}
+h1 {
+color: magenta;
+}
+
+#title{
+	background: pink;
+	width: 600px;
+}
