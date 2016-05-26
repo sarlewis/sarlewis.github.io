@@ -10,7 +10,12 @@ h1 {
 color: magenta;
 }
 
-#title{
+#title {
 	background: pink;
 	width: 600px;
+}
+
+
+iframe {
+	display: block;
 }
